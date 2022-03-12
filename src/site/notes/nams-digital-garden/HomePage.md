@@ -5,3 +5,5 @@
 # Hi there
 
 I’m chumido.
+
+[[nams-digital-garden/Second Page|This is my second page]]
