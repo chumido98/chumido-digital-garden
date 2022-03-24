@@ -6,4 +6,4 @@
 
 I’m chumido.
 
-[[chumido-digital-garden/Second Page|This is my second page]]
+[[chumido-digital-garden/Second Page#This is my second page|This is my second page]]
